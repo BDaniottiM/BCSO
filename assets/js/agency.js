@@ -40,7 +40,7 @@
     document.addEventListener("scroll", collapseNavbar);
 
     // Hide navbar when modals trigger
-    var modals = document.querySelectorAll('.portfolio-modal');
+    var modals = document.querySelectorAll('.viaturas-modal');
       
     for (var modal of modals) {
       
